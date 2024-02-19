@@ -1,4 +1,4 @@
-from similarity_model import Model
+from .similarity_model import Model
 from fastapi import FastAPI
 import time
 
